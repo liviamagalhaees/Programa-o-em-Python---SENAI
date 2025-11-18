@@ -1,0 +1,28 @@
+Qual a função e a importância de cada cargo no SCRUM.
+
+- SCRUM Master (SM):
+  Ele não é o líder de equipe mas pode ser designado como líder de operações rápidas e o "facilitador" pois conhece os problemas mais recorrentes.
+Ele também preza pelo desenvolvimento da equipe por isso é a ponte entre os DEV'S e PO. Resumindo o cara que faz tudo mais ágil.
+- Sua importância: Remover obstáculos e protege a equipe de interferências.
+
+- Producter owner (PO): 
+  O PO é aquele que anda e é o "braço direito" do SM. Define e mostra a visão do cliente, ele é a voz do cliente, cria a lista de funcionalidade do 
+produto priorizando o backlog, para realmete ser feito o que é importante antes de tudo.
+- Sua Importancia: A atuação do PO é crucial para o sucesso do projeto, pois ele atua como a principal ponte de comunicação 
+entre a equipe de desenvolvimento, os stakeholders e o cliente.
+
+- Líder equipe de TI:
+  O lider de TI é aquele que lida com as operações tecnicas, arquitetura de como sera feito, a 
+qualidade dos codigos e orientar a equipe de desenvolvimento. 
+- Sua importancia: Atua entre a tecnologia e o objetivo, garantindo a execução dos projetos, 
+sendo crucial para o sucesso da empresa.
+
+- Equipe de tecnologia:
+  São aqueles responsaveis por construir, desenvolver e projetar os produtos de forma agil. Um gupo Multifuncional (desenvolvedores, testadores, designers,
+ especialistas em UX e outros), cada um tem seu forte mas juntos possuem todas as competencias para alcançar a meta desejada.
+- Sua importancia: A equipe de tecnologia, referida no Scrum simplesmente como "Desenvolvedores", é fundamental porque é a única responsável por
+ criar o incremento do produto funcional a cada Sprint e transformar a visão do Product Owner em resultados tangíveis. Sem ela, não há entrega de valor. 
+
+
+
+
